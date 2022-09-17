@@ -1,0 +1,1 @@
+9.	You should integrate and test a section of the site where readers can leave comments that can be viewed by other web site users. You could consider integrating a service such as https://disqus.com/.
